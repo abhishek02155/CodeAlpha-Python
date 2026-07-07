@@ -1,8 +1,6 @@
 # Python Programming Internship Projects
-
 This repository contains the projects I completed during my **CodeAlpha Python Programming Internship**.  
 Each task demonstrates practical applications of Python, covering problem-solving, automation, and interactive programming.
-
 ## Completed Tasks
 - **ChatBot.py** → A simple chatbot that responds to user queries and integrates with external APIs.  
 - **Hangman_game.py** → A text-based Hangman game where the player guesses words letter by letter.  
