@@ -1,5 +1,5 @@
 # Python Programming Internship Projects
-This repository contains the projects I completed during my **CodeAlpha Python Programming Internship**.  
+This repository contains the projects I completed during my **CodeAlpha Python Programming Internship tasks**.  
 Each task demonstrates practical applications of Python, covering problem-solving, automation, and interactive programming.
 ## Completed Tasks
 - **ChatBot.py** → A simple chatbot that responds to user queries and integrates with external APIs.  
